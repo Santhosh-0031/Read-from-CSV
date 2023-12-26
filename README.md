@@ -35,7 +35,11 @@ print("Columns",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-
-
+![output](/Screenshot%202023-07-25%20081716.jpg)
+![output](/Screenshot%202023-07-25%20082600.jpg)
+i) CSV FILE 
+![output](/Screenshot%202023-07-25%20082240.jpg)
 
 ## RESULT:
+Thus the program is written to read a csv file.
+
