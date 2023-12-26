@@ -35,11 +35,7 @@ print("Columns",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![output](/Screenshot%202023-07-25%20082600.jpg)
-i) CSV FILE 
-![output](/Screenshot%202023-07-25%20082240.jpg)
-![output](out1.png)
-
+![Screenshot 2023-12-26 165903](https://github.com/Santhosh-0031/Read-from-CSV/assets/145551108/ff82908e-1fe3-48b7-8d1e-0414ac58914e)
 
 ## RESULT:
 Thus the program is written to read a csv file.
